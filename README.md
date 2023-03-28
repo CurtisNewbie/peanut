@@ -1,2 +1,3 @@
 # peanut
-Command line too for managing to-dos
+
+Command line tool for managing to-dos. We all love to-dos right? :D. Lets write another one.
