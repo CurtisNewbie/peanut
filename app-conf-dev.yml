@@ -1,0 +1,6 @@
+mode.production: false
+version: "0.0.1"
+
+app.name: "peanut"
+
+sqlite.file: "peanut.db"
